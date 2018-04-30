@@ -1,0 +1,51 @@
+
+/* GLOBAL */
+
+body {
+  background-color: #eee;
+  font-size: 12px;
+}
+
+img {
+  width: 100%;
+  height: auto;
+}
+
+/* Class Styles */
+
+.navbar {
+  padding: 25px;
+  background-color: pink;
+  display: block;
+}
+
+.menu > li {
+  list-style-type: none;
+  display: inline;
+  padding-right: 25px;
+  font-size: 14px;
+}
+
+
+.container {
+  padding: 100px;
+  background-color: yellow;
+  display: block;
+}
+
+.box-1 {
+  border: 2px solid black;
+  margin: 25px;
+  text-align: center;
+  width: 500px;
+  background-color: coral;
+  box-shadow: 10px 10px;
+  padding: 25px;
+}
+
+
+.footer {
+  padding: 25px;
+  background-color: aqua;
+  display: block;
+}
